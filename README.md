@@ -5,14 +5,18 @@
 <h1 align="center">I'm Tameem Ahmed</h1>
 <h3 align="center">An Aspiring Full-Stack Software Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tameemahmed1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tameemahmed1/"/></a><a href = "mailto: tameemisone786@gmail.com"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br>
 
-### Languages / Technologies
-***
+
+<div align="center">
+  
+  ### Languages / Technology
+  ***
+</div>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
@@ -38,9 +42,11 @@
 </p>
 
 <br />
-
-### What I am Learning Next
-***
+<div align="center">
+  
+  ### What I am Learning Next
+  ***
+</div>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> 
@@ -50,10 +56,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>
 </p>
 
-
+<div align="center">
 
 ### 📈 &nbsp;My GitHub History!
 ***
+</div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&locale=en" alt="dameme1" /></p>
 
