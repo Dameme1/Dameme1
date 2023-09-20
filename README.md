@@ -62,7 +62,9 @@
 ***
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&locale=en" alt="dameme1" /></p>
+<p align="center">
+    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&theme=algolia">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%>
