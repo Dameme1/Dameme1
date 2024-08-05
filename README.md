@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width=100%/>
 </p>
 
-<h1 align="center">I'm Tameem Ahmed</h1>
+<div align="center">
+  
+# I'm Tameem Ahmed
+
+</div>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -62,9 +66,13 @@
 ***
 </div>
 
-<p align="center">
-    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&theme=algolia">
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dameme1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dameme1&layout=compact&theme=algolia" alt="Top Langs" />
+  </div>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%>
