@@ -22,28 +22,27 @@
   ***
 </div>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-</p>
 <p align="center">
- 
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 </p>
+
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="http://getdrawings.com/free-icon/mongodb-icon-62.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
 </p>
+
+<p align="center">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://code.visualstudio.com/assets/images/code-stable-white.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="http://getdrawings.com/free-icon/postman-icon-69.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png">
+</p>
+
 
 <br />
 <div align="center">
@@ -52,13 +51,18 @@
   ***
 </div>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>
+    <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://pluspng.com/img-png/next-logo-png-build-a-universal-javascript-app-with-next-js-280.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://cdn.iconscout.com/icon/free/png-512/django-11-1175036.png">
+    <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://cdn.freebiesupply.com/logos/large/2x/react-native-firebase-1-logo-png-transparent.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://www.tensorflow.org/images/tf_logo_transp.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+     <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
+     
 </p>
+<p align="center">
+    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=ahnafs&show_icons=true&theme=discord_old_blurple">
+</p>
+
 
 <div align="center">
 
