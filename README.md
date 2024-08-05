@@ -59,11 +59,6 @@
      <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
      
 </p>
-<p align="center">
-    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=ahnafs&show_icons=true&theme=discord_old_blurple">
-</p>
-
-
 <div align="center">
 
 ### 📈 &nbsp;My GitHub History!
