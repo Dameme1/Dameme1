@@ -38,9 +38,7 @@
 
 <p align="center">
     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png">
-    <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://code.visualstudio.com/assets/images/code-stable-white.png">
     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="http://getdrawings.com/free-icon/postman-icon-69.png">
-     <img height="60" width="60" style="border-radius: 5px; margin: 5px;" src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png">
 </p>
 
 
@@ -58,21 +56,4 @@
      <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
      <img height="60" width="60" style="border-radius: 5px; margin: 10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
      
-</p>
-<div align="center">
-
-### 📈 &nbsp;My GitHub History!
-***
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dameme1" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dameme1&layout=compact&theme=algolia" alt="Top Langs" />
-  </div>
-</div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%>
-</p>
+ </p>
